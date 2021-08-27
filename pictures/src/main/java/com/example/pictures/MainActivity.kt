@@ -11,7 +11,6 @@ import com.squareup.picasso.Picasso
 import kotlinx.android.synthetic.main.activity_main.*
 import java.lang.Exception
 
-
 class MainActivity : AppCompatActivity() {
     @SuppressLint("MissingSuperCall")
     override fun onCreate(savedInstanceState: Bundle?) {
