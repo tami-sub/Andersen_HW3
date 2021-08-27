@@ -9,3 +9,4 @@ dependencyResolutionManagement {
 rootProject.name = "Andersen_HW3"
 include ':flags'
 include ':pictures'
+include ':pictures_no_libraries'
